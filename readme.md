@@ -1,5 +1,5 @@
 # S3TC with DRI drivers
-> This repository has been archived for historical preservation.
+> This repository has been archived for historical preservation. (v1.0.1)
 
 Note: this page is no longer updated and the code no longer (offically) maintained.
 
